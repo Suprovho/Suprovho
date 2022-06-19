@@ -1,4 +1,4 @@
-![MasterHead](https://im3.ezgif.com/tmp/ezgif-3-1ef4d9c408.gif)
+   ![MasterHead](https://media.giphy.com/media/NWPbyGmmmDhfNb88Rh/giphy.gif)
 <h1 align="center"> 
 <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
